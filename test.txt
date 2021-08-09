@@ -1,2 +1,0 @@
-This is a test to ensure this file gets pushed to GitHub.
-This is the second line to test after renaming the GitHub repository.
