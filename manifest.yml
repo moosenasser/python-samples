@@ -1,0 +1,6 @@
+---
+applications:
+- name: FirstLibertyForJavaAppForMoose
+  random-route: true
+  memory: 256M
+  path: target/JavaHelloWorldApp.war
